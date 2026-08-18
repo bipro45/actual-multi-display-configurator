@@ -1,0 +1,12 @@
+# Configuration for git attributes
+# Normalize line endings
+src/** linguist-detectable
+
+*.min.css linguist-generated
+*.jpeg binary   
+*.gif binary
+*.min.js linguist-generated
+
+src/**/*.tsx linguist-detectable
+docs/*.html linguist-vendored
+*.htm linguist-vendored
