@@ -1,0 +1,5 @@
+.next/
+*.tgz
+.env.local
+build/
+.DS_Store
